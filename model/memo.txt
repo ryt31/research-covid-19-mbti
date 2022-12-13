@@ -1,0 +1,181 @@
+cl-tohoku/bert-base-japanese-whole-word-masking
+{'LRAP': 0.8353719396320178, 'eval_loss': 0.2503815072114873}
+wrong_predictions: 13010
+eval_df_len: 32233
+accuracy: 0.5963763844507182
+
+              precision    recall  f1-score   support
+
+         Joy       0.87      0.84      0.86     12193
+     Sadness       0.60      0.54      0.57      4813
+Anticipation       0.78      0.73      0.76      9715
+    Surprise       0.68      0.54      0.60      3353
+       Anger       0.67      0.61      0.63      3907
+        Fear       0.53      0.38      0.44      2795
+     Disgust       0.74      0.56      0.64      2596
+       Trust       0.71      0.55      0.62      4119
+
+   micro avg       0.75      0.67      0.71     43491
+   macro avg       0.70      0.59      0.64     43491
+weighted avg       0.74      0.67      0.70     43491
+ samples avg       0.73      0.71      0.71     43491
+
+
+xlm-roberta-base
+{'LRAP': 0.8570910198017506, 'eval_loss': 0.21151255467726338}
+wrong_predictions: 12040
+eval_df_len: 32233
+accuracy: 0.626469767008966
+
+              precision    recall  f1-score   support
+
+         Joy       0.89      0.86      0.87     12193
+     Sadness       0.65      0.56      0.60      4813
+Anticipation       0.80      0.74      0.77      9715
+    Surprise       0.72      0.57      0.63      3353
+       Anger       0.72      0.63      0.67      3907
+        Fear       0.61      0.37      0.46      2795
+     Disgust       0.81      0.55      0.66      2596
+       Trust       0.75      0.58      0.66      4119
+
+   micro avg       0.79      0.68      0.73     43491
+   macro avg       0.74      0.61      0.67     43491
+weighted avg       0.78      0.68      0.72     43491
+ samples avg       0.76      0.73      0.73     43491
+
+hajime9652-xlnet-japanese
+{'LRAP': 0.8344488949262863, 'eval_loss': 0.23254171707863844}
+wrong_predictions: 13120
+eval_df_len: 32233
+accuracy: 0.5929637328204014
+
+              precision    recall  f1-score   support
+
+         Joy       0.88      0.83      0.85     12193
+     Sadness       0.63      0.50      0.56      4813
+Anticipation       0.78      0.72      0.75      9715
+    Surprise       0.69      0.50      0.58      3353
+       Anger       0.66      0.63      0.64      3907
+        Fear       0.59      0.34      0.43      2795
+     Disgust       0.76      0.55      0.64      2596
+       Trust       0.74      0.53      0.62      4119
+
+   micro avg       0.77      0.65      0.70     43491
+   macro avg       0.72      0.57      0.63     43491
+weighted avg       0.76      0.65      0.70     43491
+ samples avg       0.73      0.69      0.70     43491
+
+
+rinna/japanese-roberta-base
+{'LRAP': 0.8615603229264701, 'eval_loss': 0.21579789741903027}
+wrong_predictions: 12257
+eval_df_len: 32233
+accuracy: 0.6197375360655228
+
+              precision    recall  f1-score   support
+
+         Joy       0.88      0.87      0.87     12193
+     Sadness       0.63      0.61      0.62      4813
+Anticipation       0.82      0.74      0.78      9715
+    Surprise       0.68      0.60      0.64      3353
+       Anger       0.70      0.68      0.69      3907
+        Fear       0.63      0.37      0.47      2795
+     Disgust       0.76      0.59      0.66      2596
+       Trust       0.74      0.60      0.66      4119
+
+   micro avg       0.78      0.70      0.73     43491
+   macro avg       0.73      0.63      0.67     43491
+weighted avg       0.77      0.70      0.73     43491
+ samples avg       0.77      0.74      0.74     43491
+
+
+nlp-waseda/roberta-base-japanese
+{'LRAP': 0.8505602054780714, 'eval_loss': 0.22716243379095352}
+wrong_predictions: 12449
+eval_df_len: 32233
+accuracy: 0.6137809077653337
+
+              precision    recall  f1-score   support
+
+         Joy       0.88      0.85      0.87     12193
+     Sadness       0.64      0.55      0.59      4813
+Anticipation       0.80      0.74      0.77      9715
+    Surprise       0.70      0.56      0.62      3353
+       Anger       0.69      0.64      0.66      3907
+        Fear       0.60      0.38      0.46      2795
+     Disgust       0.79      0.55      0.65      2596
+       Trust       0.75      0.56      0.64      4119
+
+   micro avg       0.78      0.67      0.72     43491
+   macro avg       0.73      0.60      0.66     43491
+weighted avg       0.77      0.67      0.72     43491
+ samples avg       0.75      0.72      0.72     43491
+
+Twitter/twhin-bert-base
+{'LRAP': 0.863988380241286, 'eval_loss': 0.2263944667424295}
+wrong_predictions: 12280
+eval_df_len: 32233
+accuracy: 0.6190239816337294
+
+              precision    recall  f1-score   support
+
+         Joy       0.89      0.87      0.88     12193
+     Sadness       0.63      0.62      0.63      4813
+Anticipation       0.80      0.76      0.78      9715
+    Surprise       0.70      0.60      0.65      3353
+       Anger       0.71      0.67      0.69      3907
+        Fear       0.59      0.41      0.48      2795
+     Disgust       0.72      0.64      0.68      2596
+       Trust       0.72      0.63      0.67      4119
+
+   micro avg       0.77      0.71      0.74     43491
+   macro avg       0.72      0.65      0.68     43491
+weighted avg       0.76      0.71      0.74     43491
+ samples avg       0.78      0.76      0.75     43491
+
+
+以下は別の小さいデータセットで学習させたもののため無視してもかまいません。
+-----------------------------------------------------------------
+cl-tohoku/bert-base-japanese-whole-word-masking
+{'LRAP': 0.7755676982416619, 'eval_loss': 0.32172196645757206}
+wrong_predictions: 4927
+eval_df_len: 7889
+accuracy: 0.37546
+
+xlm-roberta-base
+{'LRAP': 0.8204920655040964, 'eval_loss': 0.26853452771826675}
+wrong_predictions: 4495
+eval_df_len: 7889
+accuracy: 0.43022
+
+hajime9652-xlnet-japanese
+{'LRAP': 0.7735623944934271, 'eval_loss': 0.30987637858792594}
+wrong_predictions: 4986
+eval_df_len: 7889
+accuracy: 0.36798
+
+rinna/japanese-roberta-base
+{'LRAP': 0.8353502063351124, 'eval_loss': 0.26247582623078997}
+wrong_predictions: 4373
+eval_df_len: 7889
+accuracy: 0.44568
+
+nlp-waseda/roberta-base-japanese
+{'LRAP': 0.8170441764401588, 'eval_loss': 0.28538416290791474}
+wrong_predictions: 4511
+eval_df_len: 7889
+accuracy: 0.42819
+
+Twitter/twhin-bert-base
+{'LRAP': 0.840273577635717, 'eval_loss': 0.27670459163484545}
+wrong_predictions: 4297
+eval_df_len: 7889
+accuracy: 0.45532
+
+英語
+roberta-base
+{'LRAP': 0.7458618792089322, 'eval_loss': 0.3089831781230475}
+wrong_predictions: 5339
+eval_df_len: 7889
+accuracy: 0.32323
+-----------------------------------------------------------------
