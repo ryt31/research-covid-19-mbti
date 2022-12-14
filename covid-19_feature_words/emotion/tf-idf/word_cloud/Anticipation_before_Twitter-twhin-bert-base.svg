@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(198,288)" font-size="130" style="fill:rgb(58, 186, 118)">ます</text>
+<text transform="translate(190,150)" font-size="81" style="fill:rgb(72, 26, 108)">あと</text>
+<text transform="translate(9,292)" font-size="81" style="fill:rgb(72, 37, 118)">ある</text>
+<text transform="translate(16,64)" font-size="81" style="fill:rgb(32, 163, 134)">おる</text>
+<text transform="translate(232,77)" font-size="81" style="fill:rgb(69, 53, 129)">ござる</text>
+<text transform="translate(1,206)" font-size="72" style="fill:rgb(231, 228, 25)">ところ</text>
+<text transform="translate(26,125)" font-size="72" style="fill:rgb(30, 156, 137)">まだ</text>
+<text transform="translate(338,120)" font-size="35" style="fill:rgb(36, 170, 131)">もりもり</text>
+<text transform="translate(338,164)" font-size="35" style="fill:rgb(72, 27, 109)">チケット</text>
+<text transform="translate(177,38)" font-size="35" style="fill:rgb(35, 137, 142)">今日</text>
+<text transform="translate(168,73)" font-size="35" style="fill:rgb(139, 214, 70)">切る</text>
+<text transform="translate(473,275) rotate(-90)" font-size="35" style="fill:rgb(33, 144, 141)">合わせ</text>
+<text transform="translate(201,306) rotate(-90)" font-size="35" style="fill:rgb(122, 209, 81)">是非</text>
+<text transform="translate(406,310)" font-size="35" style="fill:rgb(43, 117, 142)">時間</text>
+<text transform="translate(310,196)" font-size="35" style="fill:rgb(176, 221, 47)">残す</text>
+<text transform="translate(269,313)" font-size="32" style="fill:rgb(62, 73, 137)">気付く</text>
+</svg>

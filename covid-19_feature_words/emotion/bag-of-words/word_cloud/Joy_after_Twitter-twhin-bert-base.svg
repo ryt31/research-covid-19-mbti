@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(52,142)" font-size="163" style="fill:rgb(72, 27, 109)">する</text>
+<text transform="translate(178,252)" font-size="130" style="fill:rgb(35, 136, 142)">ます</text>
+<text transform="translate(1,260)" font-size="99" style="fill:rgb(39, 128, 142)">てる</text>
+<text transform="translate(328,62)" font-size="75" style="fill:rgb(108, 205, 90)">ない</text>
+<text transform="translate(63,187) rotate(-90)" font-size="68" style="fill:rgb(69, 53, 129)">です</text>
+<text transform="translate(214,308)" font-size="65" style="fill:rgb(58, 186, 118)">けど</text>
+<text transform="translate(352,311)" font-size="61" style="fill:rgb(69, 53, 129)">なる</text>
+<text transform="translate(364,135)" font-size="52" style="fill:rgb(241, 229, 29)">いる</text>
+<text transform="translate(207,156) rotate(-90)" font-size="52" style="fill:rgb(157, 217, 59)">ある</text>
+<text transform="translate(124,301)" font-size="48" style="fill:rgb(59, 81, 139)">れる</text>
+<text transform="translate(30,309)" font-size="47" style="fill:rgb(71, 44, 122)">くる</text>
+<text transform="translate(463,259) rotate(-90)" font-size="47" style="fill:rgb(155, 217, 60)">見る</text>
+<text transform="translate(14,31)" font-size="37" style="fill:rgb(194, 223, 35)">今日</text>
+<text transform="translate(417,264) rotate(-90)" font-size="37" style="fill:rgb(40, 124, 142)">ので</text>
+<text transform="translate(171,31)" font-size="37" style="fill:rgb(72, 24, 106)">たい</text>
+<text transform="translate(92,174) rotate(-90)" font-size="37" style="fill:rgb(56, 185, 119)">って</text>
+<text transform="translate(379,89)" font-size="33" style="fill:rgb(39, 126, 142)">すぎる</text>
+<text transform="translate(114,180)" font-size="32" style="fill:rgb(46, 109, 142)">良い</text>
+<text transform="translate(391,162)" font-size="31" style="fill:rgb(51, 99, 141)">思う</text>
+<text transform="translate(282,219)" font-size="30" style="fill:rgb(72, 28, 110)">やる</text>
+</svg>

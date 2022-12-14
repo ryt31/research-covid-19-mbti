@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(49,173)" font-size="126" style="fill:rgb(51, 98, 141)">する</text>
+<text transform="translate(181,282)" font-size="99" style="fill:rgb(37, 171, 130)">ます</text>
+<text transform="translate(270,72)" font-size="86" style="fill:rgb(31, 153, 138)">ない</text>
+<text transform="translate(305,148)" font-size="85" style="fill:rgb(32, 147, 140)">てる</text>
+<text transform="translate(24,260)" font-size="81" style="fill:rgb(63, 72, 137)">質問</text>
+<text transform="translate(73,63)" font-size="76" style="fill:rgb(72, 23, 105)">たい</text>
+<text transform="translate(464,310) rotate(-90)" font-size="72" style="fill:rgb(59, 81, 139)">です</text>
+<text transform="translate(49,312)" font-size="56" style="fill:rgb(35, 136, 142)">なる</text>
+<text transform="translate(49,185) rotate(-90)" font-size="55" style="fill:rgb(82, 197, 105)">募集中</text>
+<text transform="translate(299,194)" font-size="53" style="fill:rgb(41, 122, 142)">匿名</text>
+<text transform="translate(125,189)" font-size="42" style="fill:rgb(71, 13, 96)">けど</text>
+<text transform="translate(329,312)" font-size="38" style="fill:rgb(54, 92, 141)">ある</text>
+<text transform="translate(231,312)" font-size="38" style="fill:rgb(129, 211, 77)">いる</text>
+<text transform="translate(158,314)" font-size="35" style="fill:rgb(71, 13, 96)">思う</text>
+<text transform="translate(342,270)" font-size="34" style="fill:rgb(72, 28, 110)">ので</text>
+<text transform="translate(270,75) rotate(-90)" font-size="33" style="fill:rgb(31, 150, 139)">やる</text>
+<text transform="translate(400,78)" font-size="26" style="fill:rgb(43, 116, 142)">質問箱</text>
+<text transform="translate(144,133)" font-size="25" style="fill:rgb(72, 33, 115)">行く</text>
+<text transform="translate(214,197)" font-size="25" style="fill:rgb(50, 101, 142)">答える</text>
+<text transform="translate(428,175)" font-size="24" style="fill:rgb(66, 190, 113)">みる</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(63,205)" font-size="117" style="fill:rgb(70, 192, 111)">です</text>
+<text transform="translate(234,302)" font-size="117" style="fill:rgb(56, 89, 140)">よく</text>
+<text transform="translate(2,98)" font-size="117" style="fill:rgb(54, 93, 141)">場所</text>
+<text transform="translate(250,94)" font-size="114" style="fill:rgb(68, 59, 132)">最近</text>
+</svg>

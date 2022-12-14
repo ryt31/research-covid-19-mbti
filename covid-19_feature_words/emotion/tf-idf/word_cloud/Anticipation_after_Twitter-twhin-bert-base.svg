@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(38,278)" font-size="173" style="fill:rgb(236, 229, 27)">imac</text>
+<text transform="translate(2,110)" font-size="136" style="fill:rgb(49, 103, 142)">macbook</text>
+<text transform="translate(123,149)" font-size="78" style="fill:rgb(69, 5, 89)">spec</text>
+<text transform="translate(275,170)" font-size="67" style="fill:rgb(42, 176, 127)">あげる</text>
+<text transform="translate(54,248) rotate(-90)" font-size="67" style="fill:rgb(48, 106, 142)">いる</text>
+<text transform="translate(456,314) rotate(-90)" font-size="67" style="fill:rgb(170, 220, 50)">くる</text>
+<text transform="translate(8,309)" font-size="52" style="fill:rgb(58, 84, 140)">そろそろ</text>
+<text transform="translate(211,312)" font-size="50" style="fill:rgb(59, 82, 139)">たい</text>
+<text transform="translate(94,29)" font-size="35" style="fill:rgb(42, 120, 142)">ちゃん</text>
+<text transform="translate(324,29)" font-size="35" style="fill:rgb(213, 226, 26)">なに</text>
+<text transform="translate(119,183) rotate(-90)" font-size="35" style="fill:rgb(200, 224, 32)">より</text>
+<text transform="translate(308,314)" font-size="35" style="fill:rgb(42, 119, 142)">タイプ</text>
+<text transform="translate(174,174)" font-size="34" style="fill:rgb(64, 189, 114)">チラシ</text>
+<text transform="translate(228,28)" font-size="32" style="fill:rgb(210, 226, 27)">作り方</text>
+<text transform="translate(3,29)" font-size="32" style="fill:rgb(72, 33, 115)">作業</text>
+<text transform="translate(116,247) rotate(-90)" font-size="32" style="fill:rgb(66, 190, 113)">共に</text>
+<text transform="translate(399,238) rotate(-90)" font-size="32" style="fill:rgb(64, 70, 136)">地図</text>
+<text transform="translate(384,263)" font-size="30" style="fill:rgb(71, 45, 123)">容量</text>
+<text transform="translate(7,263)" font-size="28" style="fill:rgb(68, 59, 132)">悲鳴</text>
+<text transform="translate(121,177)" font-size="26" style="fill:rgb(34, 167, 133)">最近</text>
+</svg>

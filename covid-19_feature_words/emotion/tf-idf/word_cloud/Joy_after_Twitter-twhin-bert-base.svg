@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(180,136)" font-size="143" style="fill:rgb(39, 128, 142)">これ</text>
+<text transform="translate(132,317) rotate(-90)" font-size="143" style="fill:rgb(47, 180, 124)">する</text>
+<text transform="translate(163,290)" font-size="142" style="fill:rgb(64, 189, 114)">てる</text>
+<text transform="translate(51,207)" font-size="61" style="fill:rgb(49, 103, 142)">高速</text>
+<text transform="translate(198,170)" font-size="46" style="fill:rgb(59, 81, 139)">いい</text>
+<text transform="translate(65,43)" font-size="46" style="fill:rgb(234, 229, 26)">から</text>
+<text transform="translate(386,175)" font-size="46" style="fill:rgb(69, 56, 130)">くる</text>
+<text transform="translate(104,312)" font-size="46" style="fill:rgb(72, 20, 103)">けど</text>
+<text transform="translate(193,157) rotate(-90)" font-size="46" style="fill:rgb(39, 128, 142)">ちゃう</text>
+<text transform="translate(237,102)" font-size="46" style="fill:rgb(41, 123, 142)">って</text>
+<text transform="translate(463,318) rotate(-90)" font-size="46" style="fill:rgb(122, 209, 81)">なれる</text>
+<text transform="translate(382,35)" font-size="46" style="fill:rgb(35, 169, 131)">ので</text>
+<text transform="translate(286,177)" font-size="46" style="fill:rgb(50, 101, 142)">まあ</text>
+<text transform="translate(309,314) rotate(-90)" font-size="46" style="fill:rgb(70, 48, 126)">まで</text>
+<text transform="translate(135,244)" font-size="38" style="fill:rgb(189, 223, 38)">れる</text>
+<text transform="translate(35,227) rotate(-90)" font-size="38" style="fill:rgb(94, 201, 98)">ナビ</text>
+<text transform="translate(285,34)" font-size="38" style="fill:rgb(41, 175, 127)">バグ</text>
+<text transform="translate(192,30)" font-size="35" style="fill:rgb(49, 104, 142)">乗る</text>
+<text transform="translate(31,317) rotate(-90)" font-size="35" style="fill:rgb(105, 205, 91)">仕事</text>
+<text transform="translate(44,72) rotate(-90)" font-size="35" style="fill:rgb(51, 99, 141)">余裕</text>
+</svg>
