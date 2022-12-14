@@ -3,6 +3,7 @@
 
 /database/
 /cache_dir/
+/model/
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
