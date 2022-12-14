@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(178,214)" font-size="150" style="fill:rgb(37, 132, 142)">質問</text>
+<text transform="translate(125,309) rotate(-90)" font-size="130" style="fill:rgb(66, 65, 134)">てる</text>
+<text transform="translate(149,306)" font-size="94" style="fill:rgb(62, 76, 138)">募集中</text>
+<text transform="translate(143,78)" font-size="92" style="fill:rgb(43, 116, 142)">匿名</text>
+<text transform="translate(316,75)" font-size="80" style="fill:rgb(55, 90, 140)">する</text>
+<text transform="translate(43,196)" font-size="40" style="fill:rgb(46, 179, 124)">ワクチン</text>
+<text transform="translate(40,46)" font-size="38" style="fill:rgb(72, 28, 110)">ます</text>
+<text transform="translate(73,297)" font-size="38" style="fill:rgb(72, 31, 112)">打つ</text>
+<text transform="translate(390,312)" font-size="24" style="fill:rgb(41, 122, 142)">tomiryo</text>
+<text transform="translate(399,243)" font-size="24" style="fill:rgb(173, 220, 48)">こんな</text>
+<text transform="translate(21,120) rotate(-90)" font-size="24" style="fill:rgb(31, 152, 139)">バレエ</text>
+<text transform="translate(429,284)" font-size="24" style="fill:rgb(69, 56, 130)">愛す</text>
+<text transform="translate(25,219) rotate(-90)" font-size="24" style="fill:rgb(72, 193, 110)">答える</text>
+<text transform="translate(144,75) rotate(-90)" font-size="24" style="fill:rgb(88, 199, 101)">質問箱</text>
+<text transform="translate(431,259)" font-size="16" style="fill:rgb(200, 224, 32)">ない</text>
+<text transform="translate(74,64)" font-size="14" style="fill:rgb(50, 100, 142)">コロナ</text>
+<text transform="translate(116,157)" font-size="14" style="fill:rgb(41, 122, 142)">マスク</text>
+<text transform="translate(317,94)" font-size="11" style="fill:rgb(236, 229, 27)">けど</text>
+<text transform="translate(114,263)" font-size="10" style="fill:rgb(37, 172, 130)">です</text>
+<text transform="translate(121,310)" font-size="10" style="fill:rgb(72, 26, 108)">なる</text>
+</svg>

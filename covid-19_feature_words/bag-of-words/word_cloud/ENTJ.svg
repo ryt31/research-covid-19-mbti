@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(179,105)" font-size="125" style="fill:rgb(31, 151, 139)">する</text>
+<text transform="translate(68,254)" font-size="101" style="fill:rgb(70, 52, 128)">ワクチン</text>
+<text transform="translate(5,119)" font-size="97" style="fill:rgb(149, 216, 64)">ない</text>
+<text transform="translate(298,163)" font-size="73" style="fill:rgb(71, 14, 97)">てる</text>
+<text transform="translate(5,174)" font-size="67" style="fill:rgb(31, 162, 135)">コロナ</text>
+<text transform="translate(93,309)" font-size="63" style="fill:rgb(124, 210, 80)">けど</text>
+<text transform="translate(246,306)" font-size="58" style="fill:rgb(181, 222, 43)">ます</text>
+<text transform="translate(56,315) rotate(-90)" font-size="56" style="fill:rgb(127, 211, 78)">0回目</text>
+<text transform="translate(357,300)" font-size="56" style="fill:rgb(32, 146, 140)">いる</text>
+<text transform="translate(471,119) rotate(-90)" font-size="55" style="fill:rgb(31, 152, 139)">なる</text>
+<text transform="translate(59,42)" font-size="52" style="fill:rgb(53, 94, 141)">です</text>
+<text transform="translate(294,147) rotate(-90)" font-size="45" style="fill:rgb(72, 32, 113)">ある</text>
+<text transform="translate(223,174)" font-size="33" style="fill:rgb(127, 211, 78)">マスク</text>
+<text transform="translate(90,292) rotate(-90)" font-size="32" style="fill:rgb(70, 7, 90)">打つ</text>
+<text transform="translate(461,189) rotate(-90)" font-size="31" style="fill:rgb(44, 177, 126)">って</text>
+<text transform="translate(247,311) rotate(-90)" font-size="31" style="fill:rgb(44, 113, 142)">行く</text>
+<text transform="translate(326,251)" font-size="30" style="fill:rgb(62, 74, 137)">思う</text>
+<text transform="translate(1,33)" font-size="30" style="fill:rgb(31, 153, 138)">接種</text>
+<text transform="translate(145,52)" font-size="27" style="fill:rgb(72, 35, 116)">0時</text>
+<text transform="translate(264,58)" font-size="27" style="fill:rgb(236, 229, 27)">出る</text>
+</svg>

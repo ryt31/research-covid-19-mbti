@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(211,102)" font-size="124" style="fill:rgb(251, 231, 35)">する</text>
+<text transform="translate(62,297)" font-size="105" style="fill:rgb(70, 192, 111)">コロナ</text>
+<text transform="translate(27,198)" font-size="103" style="fill:rgb(86, 198, 103)">ない</text>
+<text transform="translate(5,79)" font-size="101" style="fill:rgb(46, 111, 142)">てる</text>
+<text transform="translate(461,306) rotate(-90)" font-size="88" style="fill:rgb(189, 223, 38)">ます</text>
+<text transform="translate(229,179)" font-size="78" style="fill:rgb(105, 205, 91)">なる</text>
+<text transform="translate(119,121)" font-size="47" style="fill:rgb(60, 80, 139)">けど</text>
+<text transform="translate(63,312) rotate(-90)" font-size="47" style="fill:rgb(71, 13, 96)">思う</text>
+<text transform="translate(324,121) rotate(-90)" font-size="45" style="fill:rgb(61, 77, 138)">です</text>
+<text transform="translate(180,220)" font-size="35" style="fill:rgb(117, 208, 84)">ワクチン</text>
+<text transform="translate(28,107)" font-size="34" style="fill:rgb(58, 186, 118)">いる</text>
+<text transform="translate(29,218) rotate(-90)" font-size="34" style="fill:rgb(99, 203, 95)">マスク</text>
+<text transform="translate(411,150)" font-size="33" style="fill:rgb(37, 131, 142)">ある</text>
+<text transform="translate(335,205)" font-size="32" style="fill:rgb(72, 193, 110)">ので</text>
+<text transform="translate(175,301) rotate(-90)" font-size="29" style="fill:rgb(33, 142, 141)">増える</text>
+<text transform="translate(424,222)" font-size="27" style="fill:rgb(72, 37, 118)">くる</text>
+<text transform="translate(420,38)" font-size="27" style="fill:rgb(68, 58, 131)">って</text>
+<text transform="translate(333,275)" font-size="27" style="fill:rgb(65, 68, 135)">行く</text>
+<text transform="translate(332,225)" font-size="24" style="fill:rgb(37, 171, 130)">0回目</text>
+<text transform="translate(331,297)" font-size="24" style="fill:rgb(178, 221, 45)">とか</text>
+</svg>

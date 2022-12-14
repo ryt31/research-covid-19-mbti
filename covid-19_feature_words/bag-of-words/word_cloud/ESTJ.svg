@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(188,243)" font-size="145" style="fill:rgb(59, 187, 117)">する</text>
+<text transform="translate(182,272) rotate(-90)" font-size="128" style="fill:rgb(246, 230, 32)">ない</text>
+<text transform="translate(223,108)" font-size="112" style="fill:rgb(84, 197, 104)">てる</text>
+<text transform="translate(253,308)" font-size="75" style="fill:rgb(65, 68, 135)">コロナ</text>
+<text transform="translate(57,277) rotate(-90)" font-size="68" style="fill:rgb(241, 229, 29)">ワクチン</text>
+<text transform="translate(32,310)" font-size="62" style="fill:rgb(55, 91, 141)">けど</text>
+<text transform="translate(145,312)" font-size="39" style="fill:rgb(72, 29, 111)">マスク</text>
+<text transform="translate(343,133) rotate(-90)" font-size="34" style="fill:rgb(253, 231, 37)">なる</text>
+<text transform="translate(149,68)" font-size="33" style="fill:rgb(49, 181, 123)">0回目</text>
+<text transform="translate(283,199)" font-size="31" style="fill:rgb(37, 172, 130)">ます</text>
+<text transform="translate(293,230)" font-size="29" style="fill:rgb(71, 45, 123)">ある</text>
+<text transform="translate(81,92)" font-size="29" style="fill:rgb(43, 117, 142)">いる</text>
+<text transform="translate(420,55)" font-size="29" style="fill:rgb(72, 24, 106)">れる</text>
+<text transform="translate(180,26)" font-size="29" style="fill:rgb(67, 62, 133)">打つ</text>
+<text transform="translate(167,258)" font-size="28" style="fill:rgb(90, 200, 100)">って</text>
+<text transform="translate(202,142)" font-size="27" style="fill:rgb(68, 2, 86)">たい</text>
+<text transform="translate(67,30)" font-size="26" style="fill:rgb(55, 90, 140)">だけ</text>
+<text transform="translate(43,158)" font-size="26" style="fill:rgb(53, 183, 121)">接種</text>
+<text transform="translate(471,109) rotate(-90)" font-size="25" style="fill:rgb(170, 220, 50)">くる</text>
+<text transform="translate(195,101)" font-size="25" style="fill:rgb(33, 143, 141)">思う</text>
+</svg>

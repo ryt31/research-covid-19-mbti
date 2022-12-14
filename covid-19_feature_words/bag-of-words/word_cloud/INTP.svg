@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(382,296) rotate(-90)" font-size="147" style="fill:rgb(122, 209, 81)">する</text>
+<text transform="translate(3,154)" font-size="123" style="fill:rgb(61, 188, 116)">ない</text>
+<text transform="translate(3,277)" font-size="71" style="fill:rgb(71, 42, 122)">ワクチン</text>
+<text transform="translate(448,301) rotate(-90)" font-size="65" style="fill:rgb(173, 220, 48)">マスク</text>
+<text transform="translate(92,60)" font-size="59" style="fill:rgb(108, 205, 90)">けど</text>
+<text transform="translate(14,211)" font-size="54" style="fill:rgb(66, 64, 134)">てる</text>
+<text transform="translate(115,194)" font-size="54" style="fill:rgb(60, 80, 139)">コロナ</text>
+<text transform="translate(207,35)" font-size="44" style="fill:rgb(67, 61, 132)">0回目</text>
+<text transform="translate(390,64)" font-size="44" style="fill:rgb(147, 215, 65)">いる</text>
+<text transform="translate(3,44)" font-size="44" style="fill:rgb(61, 188, 116)">ます</text>
+<text transform="translate(319,294)" font-size="42" style="fill:rgb(59, 82, 139)">なる</text>
+<text transform="translate(173,311)" font-size="40" style="fill:rgb(37, 172, 130)">ある</text>
+<text transform="translate(322,175)" font-size="36" style="fill:rgb(71, 46, 124)">出る</text>
+<text transform="translate(399,101)" font-size="36" style="fill:rgb(59, 81, 139)">思う</text>
+<text transform="translate(106,311)" font-size="34" style="fill:rgb(35, 138, 141)">って</text>
+<text transform="translate(154,104)" font-size="30" style="fill:rgb(68, 1, 84)">0度</text>
+<text transform="translate(41,308)" font-size="30" style="fill:rgb(32, 163, 134)">です</text>
+<text transform="translate(238,141)" font-size="30" style="fill:rgb(31, 162, 135)">という</text>
+<text transform="translate(269,312)" font-size="30" style="fill:rgb(69, 56, 130)">れる</text>
+<text transform="translate(391,26)" font-size="28" style="fill:rgb(41, 121, 142)">くる</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(5,92)" font-size="45" style="fill:rgb(31, 162, 135)">東洋経済オンライン</text>
+<text transform="translate(153,48)" font-size="34" style="fill:rgb(48, 105, 142)">0度</text>
+<text transform="translate(228,260)" font-size="34" style="fill:rgb(31, 161, 135)">ファイザー</text>
+<text transform="translate(188,177)" font-size="34" style="fill:rgb(155, 217, 60)">西部</text>
+<text transform="translate(328,146)" font-size="34" style="fill:rgb(155, 217, 60)">静岡県</text>
+<text transform="translate(133,255)" font-size="34" style="fill:rgb(76, 194, 108)">仕事</text>
+<text transform="translate(264,36)" font-size="34" style="fill:rgb(44, 115, 142)">新型コロナ</text>
+<text transform="translate(234,211)" font-size="34" style="fill:rgb(50, 182, 122)">継続</text>
+<text transform="translate(133,300)" font-size="34" style="fill:rgb(72, 37, 118)">出る</text>
+<text transform="translate(217,299)" font-size="34" style="fill:rgb(41, 123, 142)">増える</text>
+<text transform="translate(35,249) rotate(-90)" font-size="34" style="fill:rgb(32, 147, 140)">帰る</text>
+<text transform="translate(93,143)" font-size="34" style="fill:rgb(30, 155, 138)">食べる</text>
+<text transform="translate(84,188)" font-size="34" style="fill:rgb(74, 193, 109)">fun</text>
+<text transform="translate(301,209)" font-size="34" style="fill:rgb(31, 160, 136)">toyokeizai</text>
+<text transform="translate(55,217)" font-size="34" style="fill:rgb(96, 202, 96)">づくり</text>
+<text transform="translate(353,289)" font-size="34" style="fill:rgb(216, 226, 25)">人脈</text>
+<text transform="translate(25,312)" font-size="34" style="fill:rgb(176, 221, 47)">せい</text>
+<text transform="translate(217,137)" font-size="34" style="fill:rgb(68, 2, 86)">有給</text>
+<text transform="translate(20,40)" font-size="34" style="fill:rgb(192, 223, 37)">ところ</text>
+<text transform="translate(419,108)" font-size="34" style="fill:rgb(176, 221, 47)">0時</text>
+</svg>

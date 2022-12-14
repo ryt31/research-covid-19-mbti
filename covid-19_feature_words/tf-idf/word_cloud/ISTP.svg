@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(81,120)" font-size="146" style="fill:rgb(57, 85, 140)">covid</text>
+<text transform="translate(2,284)" font-size="119" style="fill:rgb(32, 147, 140)">マンボウ</text>
+<text transform="translate(41,174)" font-size="69" style="fill:rgb(68, 2, 86)">緊急事態宣言</text>
+<text transform="translate(199,34)" font-size="42" style="fill:rgb(144, 215, 67)">こわい</text>
+<text transform="translate(2,112)" font-size="42" style="fill:rgb(33, 143, 141)">ちと</text>
+<text transform="translate(11,313)" font-size="36" style="fill:rgb(30, 157, 137)">フライドポテト</text>
+<text transform="translate(266,315)" font-size="30" style="fill:rgb(71, 47, 125)">マイクロチップ</text>
+<text transform="translate(23,32)" font-size="30" style="fill:rgb(46, 111, 142)">吉祥寺</text>
+<text transform="translate(462,101) rotate(-90)" font-size="30" style="fill:rgb(52, 182, 121)">欲しい</text>
+<text transform="translate(196,203)" font-size="30" style="fill:rgb(69, 4, 87)">みたい</text>
+<text transform="translate(113,31)" font-size="30" style="fill:rgb(46, 109, 142)">多数派</text>
+<text transform="translate(371,114) rotate(-90)" font-size="30" style="fill:rgb(31, 162, 135)">年寄り</text>
+<text transform="translate(22,64)" font-size="30" style="fill:rgb(43, 117, 142)">済む</text>
+<text transform="translate(101,253)" font-size="30" style="fill:rgb(71, 14, 97)">解説</text>
+<text transform="translate(32,199) rotate(-90)" font-size="30" style="fill:rgb(181, 222, 43)">出す</text>
+<text transform="translate(14,269)" font-size="30" style="fill:rgb(48, 106, 142)">gw</text>
+<text transform="translate(322,113) rotate(-90)" font-size="30" style="fill:rgb(31, 159, 136)">動画</text>
+<text transform="translate(471,204) rotate(-90)" font-size="30" style="fill:rgb(71, 44, 122)">帰る</text>
+<text transform="translate(49,201)" font-size="27" style="fill:rgb(63, 188, 115)">しよう</text>
+<text transform="translate(355,269)" font-size="27" style="fill:rgb(58, 84, 140)">失う</text>
+</svg>

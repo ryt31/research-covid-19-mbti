@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(45,218)" font-size="141" style="fill:rgb(32, 146, 140)">出る</text>
+<text transform="translate(455,316) rotate(-90)" font-size="141" style="fill:rgb(67, 61, 132)">状態</text>
+<text transform="translate(124,96)" font-size="114" style="fill:rgb(84, 197, 104)">0度</text>
+<text transform="translate(70,307)" font-size="98" style="fill:rgb(31, 160, 136)">ため</text>
+<text transform="translate(1,54)" font-size="63" style="fill:rgb(82, 197, 105)">効果</text>
+<text transform="translate(1,104)" font-size="53" style="fill:rgb(132, 212, 75)">左腕</text>
+<text transform="translate(46,318) rotate(-90)" font-size="53" style="fill:rgb(72, 32, 113)">自宅療養</text>
+<text transform="translate(310,36)" font-size="43" style="fill:rgb(63, 188, 115)">という</text>
+<text transform="translate(296,309) rotate(-90)" font-size="43" style="fill:rgb(72, 22, 104)">読む</text>
+<text transform="translate(322,149) rotate(-90)" font-size="43" style="fill:rgb(40, 125, 142)">なん</text>
+<text transform="translate(332,316) rotate(-90)" font-size="43" style="fill:rgb(119, 209, 83)">bbain</text>
+<text transform="translate(370,179)" font-size="25" style="fill:rgb(52, 97, 141)">venice</text>
+<text transform="translate(73,310) rotate(-90)" font-size="25" style="fill:rgb(39, 128, 142)">カレー</text>
+<text transform="translate(192,230) rotate(-90)" font-size="25" style="fill:rgb(31, 153, 138)">トップ</text>
+<text transform="translate(263,53)" font-size="15" style="fill:rgb(221, 227, 24)">パチンコ店</text>
+<text transform="translate(121,204)" font-size="15" style="fill:rgb(66, 63, 133)">上場</text>
+<text transform="translate(121,183)" font-size="15" style="fill:rgb(110, 206, 88)">体操</text>
+<text transform="translate(306,174)" font-size="15" style="fill:rgb(41, 123, 142)">初期</text>
+<text transform="translate(170,149)" font-size="15" style="fill:rgb(236, 229, 27)">医療機関</text>
+<text transform="translate(159,315)" font-size="15" style="fill:rgb(72, 40, 120)">合える</text>
+</svg>

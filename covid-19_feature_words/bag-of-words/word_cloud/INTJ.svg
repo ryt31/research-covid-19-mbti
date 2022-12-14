@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(131,245)" font-size="128" style="fill:rgb(58, 84, 140)">する</text>
+<text transform="translate(106,113)" font-size="114" style="fill:rgb(35, 169, 131)">ない</text>
+<text transform="translate(189,306)" font-size="72" style="fill:rgb(70, 51, 127)">ワクチン</text>
+<text transform="translate(7,304)" font-size="62" style="fill:rgb(39, 173, 129)">コロナ</text>
+<text transform="translate(53,229) rotate(-90)" font-size="58" style="fill:rgb(178, 221, 45)">てる</text>
+<text transform="translate(350,88)" font-size="58" style="fill:rgb(92, 200, 99)">ます</text>
+<text transform="translate(368,224)" font-size="55" style="fill:rgb(43, 117, 142)">けど</text>
+<text transform="translate(347,132)" font-size="51" style="fill:rgb(72, 27, 109)">0回目</text>
+<text transform="translate(57,230)" font-size="51" style="fill:rgb(72, 29, 111)">なる</text>
+<text transform="translate(3,42)" font-size="50" style="fill:rgb(197, 224, 33)">です</text>
+<text transform="translate(3,105)" font-size="46" style="fill:rgb(200, 224, 32)">ある</text>
+<text transform="translate(62,152)" font-size="44" style="fill:rgb(62, 74, 137)">マスク</text>
+<text transform="translate(219,145)" font-size="43" style="fill:rgb(33, 143, 141)">れる</text>
+<text transform="translate(378,169)" font-size="42" style="fill:rgb(46, 109, 142)">ので</text>
+<text transform="translate(353,31)" font-size="40" style="fill:rgb(47, 180, 124)">いる</text>
+<text transform="translate(253,32)" font-size="38" style="fill:rgb(33, 166, 133)">打つ</text>
+<text transform="translate(242,248) rotate(-90)" font-size="37" style="fill:rgb(241, 229, 29)">接種</text>
+<text transform="translate(158,30)" font-size="35" style="fill:rgb(223, 227, 24)">くる</text>
+<text transform="translate(16,257)" font-size="31" style="fill:rgb(71, 42, 122)">できる</text>
+<text transform="translate(348,85) rotate(-90)" font-size="31" style="fill:rgb(251, 231, 35)">行く</text>
+</svg>

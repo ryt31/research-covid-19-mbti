@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(148,193)" font-size="151" style="fill:rgb(61, 188, 116)">する</text>
+<text transform="translate(135,308) rotate(-90)" font-size="143" style="fill:rgb(72, 36, 117)">ない</text>
+<text transform="translate(141,297)" font-size="112" style="fill:rgb(32, 163, 134)">コロナ</text>
+<text transform="translate(286,65)" font-size="85" style="fill:rgb(41, 123, 142)">てる</text>
+<text transform="translate(110,58)" font-size="51" style="fill:rgb(216, 226, 25)">ワクチン</text>
+<text transform="translate(468,221) rotate(-90)" font-size="40" style="fill:rgb(46, 109, 142)">マスク</text>
+<text transform="translate(242,208)" font-size="38" style="fill:rgb(71, 42, 122)">0回目</text>
+<text transform="translate(9,124)" font-size="38" style="fill:rgb(71, 13, 96)">けど</text>
+<text transform="translate(252,165)" font-size="33" style="fill:rgb(33, 145, 140)">接種</text>
+<text transform="translate(41,28)" font-size="32" style="fill:rgb(226, 228, 24)">痛い</text>
+<text transform="translate(170,271)" font-size="31" style="fill:rgb(122, 209, 81)">0時</text>
+<text transform="translate(129,313)" font-size="31" style="fill:rgb(31, 153, 138)">ます</text>
+<text transform="translate(113,86)" font-size="29" style="fill:rgb(70, 48, 126)">たい</text>
+<text transform="translate(241,86)" font-size="29" style="fill:rgb(39, 173, 129)">って</text>
+<text transform="translate(128,173)" font-size="29" style="fill:rgb(33, 166, 133)">なる</text>
+<text transform="translate(415,313)" font-size="29" style="fill:rgb(122, 209, 81)">出る</text>
+<text transform="translate(407,93)" font-size="27" style="fill:rgb(31, 160, 136)">覚書</text>
+<text transform="translate(5,311)" font-size="25" style="fill:rgb(68, 58, 131)">です</text>
+<text transform="translate(262,314)" font-size="25" style="fill:rgb(110, 206, 88)">とか</text>
+<text transform="translate(345,266)" font-size="25" style="fill:rgb(72, 36, 117)">れる</text>
+</svg>

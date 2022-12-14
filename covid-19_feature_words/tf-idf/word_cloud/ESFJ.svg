@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(37,295)" font-size="110" style="fill:rgb(72, 38, 119)">覚書</text>
+<text transform="translate(254,139)" font-size="82" style="fill:rgb(60, 80, 139)">演奏</text>
+<text transform="translate(54,124)" font-size="82" style="fill:rgb(165, 219, 54)">痛い</text>
+<text transform="translate(374,293)" font-size="62" style="fill:rgb(61, 188, 116)">0時</text>
+<text transform="translate(14,186)" font-size="62" style="fill:rgb(31, 152, 139)">出る</text>
+<text transform="translate(261,210)" font-size="62" style="fill:rgb(68, 59, 132)">こっち</text>
+<text transform="translate(188,55)" font-size="62" style="fill:rgb(59, 187, 117)">しんどい</text>
+<text transform="translate(275,298)" font-size="62" style="fill:rgb(66, 63, 133)">0度</text>
+<text transform="translate(135,195)" font-size="62" style="fill:rgb(152, 216, 62)">わい</text>
+<text transform="translate(3,47)" font-size="56" style="fill:rgb(57, 85, 140)">つらい</text>
+<text transform="translate(470,166) rotate(-90)" font-size="56" style="fill:rgb(49, 103, 142)">会う</text>
+<text transform="translate(251,241)" font-size="41" style="fill:rgb(76, 194, 108)">tsla</text>
+<text transform="translate(341,236)" font-size="29" style="fill:rgb(72, 28, 110)">お父さん</text>
+<text transform="translate(326,170)" font-size="29" style="fill:rgb(35, 169, 131)">お隣</text>
+<text transform="translate(183,144)" font-size="29" style="fill:rgb(44, 114, 142)">だん</text>
+<text transform="translate(36,139) rotate(-90)" font-size="29" style="fill:rgb(70, 52, 128)">ケイト</text>
+<text transform="translate(36,306) rotate(-90)" font-size="29" style="fill:rgb(31, 154, 138)">ポテトー</text>
+<text transform="translate(143,60)" font-size="29" style="fill:rgb(197, 224, 33)">左脇</text>
+<text transform="translate(248,116) rotate(-90)" font-size="29" style="fill:rgb(72, 37, 118)">次男</text>
+<text transform="translate(364,314)" font-size="25" style="fill:rgb(68, 1, 84)">お客様</text>
+</svg>

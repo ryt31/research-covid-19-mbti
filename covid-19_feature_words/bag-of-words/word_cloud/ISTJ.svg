@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(130,225)" font-size="132" style="fill:rgb(99, 203, 95)">する</text>
+<text transform="translate(213,108)" font-size="132" style="fill:rgb(51, 99, 141)">ない</text>
+<text transform="translate(4,85)" font-size="109" style="fill:rgb(208, 225, 28)">てる</text>
+<text transform="translate(43,306)" font-size="88" style="fill:rgb(39, 173, 129)">ワクチン</text>
+<text transform="translate(1,230)" font-size="55" style="fill:rgb(33, 143, 141)">マスク</text>
+<text transform="translate(37,130)" font-size="53" style="fill:rgb(31, 162, 135)">コロナ</text>
+<text transform="translate(1,179)" font-size="52" style="fill:rgb(56, 88, 140)">0回目</text>
+<text transform="translate(371,162)" font-size="51" style="fill:rgb(82, 197, 105)">なる</text>
+<text transform="translate(378,311)" font-size="48" style="fill:rgb(103, 204, 92)">けど</text>
+<text transform="translate(393,240)" font-size="38" style="fill:rgb(36, 134, 142)">くる</text>
+<text transform="translate(375,200)" font-size="36" style="fill:rgb(65, 68, 135)">だけ</text>
+<text transform="translate(33,135) rotate(-90)" font-size="36" style="fill:rgb(71, 46, 124)">できる</text>
+<text transform="translate(217,230)" font-size="36" style="fill:rgb(65, 68, 135)">思う</text>
+<text transform="translate(2,303)" font-size="34" style="fill:rgb(68, 1, 84)">ある</text>
+<text transform="translate(58,62)" font-size="34" style="fill:rgb(41, 122, 142)">いる</text>
+<text transform="translate(410,110)" font-size="34" style="fill:rgb(31, 154, 138)">って</text>
+<text transform="translate(215,177)" font-size="34" style="fill:rgb(80, 196, 106)">ます</text>
+<text transform="translate(418,69) rotate(-90)" font-size="34" style="fill:rgb(184, 222, 41)">接種</text>
+<text transform="translate(402,266)" font-size="29" style="fill:rgb(33, 166, 133)">です</text>
+<text transform="translate(195,114)" font-size="28" style="fill:rgb(46, 110, 142)">出る</text>
+</svg>

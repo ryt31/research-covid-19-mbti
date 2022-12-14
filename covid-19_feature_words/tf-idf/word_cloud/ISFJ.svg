@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(265,270)" font-size="86" style="fill:rgb(70, 192, 111)">0回</text>
+<text transform="translate(17,132)" font-size="86" style="fill:rgb(39, 128, 142)">チャーム</text>
+<text transform="translate(62,217)" font-size="86" style="fill:rgb(41, 175, 127)">痛い</text>
+<text transform="translate(60,55)" font-size="67" style="fill:rgb(47, 180, 124)">オリンピック</text>
+<text transform="translate(114,278)" font-size="67" style="fill:rgb(66, 64, 134)">出る</text>
+<text transform="translate(447,314) rotate(-90)" font-size="67" style="fill:rgb(38, 130, 142)">自分</text>
+<text transform="translate(226,180)" font-size="61" style="fill:rgb(52, 96, 141)">本当に</text>
+<text transform="translate(355,111)" font-size="61" style="fill:rgb(31, 151, 139)">受付</text>
+<text transform="translate(234,312)" font-size="44" style="fill:rgb(92, 200, 99)">しまう</text>
+<text transform="translate(50,306) rotate(-90)" font-size="44" style="fill:rgb(70, 50, 126)">みたい</text>
+<text transform="translate(105,317) rotate(-90)" font-size="44" style="fill:rgb(40, 125, 142)">でも</text>
+<text transform="translate(173,87)" font-size="41" style="fill:rgb(122, 209, 81)">ところ</text>
+<text transform="translate(422,145)" font-size="41" style="fill:rgb(149, 216, 64)">gt</text>
+<text transform="translate(124,310)" font-size="35" style="fill:rgb(52, 97, 141)">peing</text>
+<text transform="translate(172,124)" font-size="26" style="fill:rgb(42, 176, 127)">予防接種</text>
+<text transform="translate(24,158)" font-size="26" style="fill:rgb(58, 84, 140)">探索</text>
+<text transform="translate(4,63)" font-size="26" style="fill:rgb(68, 191, 112)">元気</text>
+<text transform="translate(83,129)" font-size="26" style="fill:rgb(64, 69, 136)">まだ</text>
+<text transform="translate(2,26)" font-size="26" style="fill:rgb(34, 140, 141)">遅い</text>
+<text transform="translate(474,288) rotate(-90)" font-size="26" style="fill:rgb(72, 28, 110)">くださる</text>
+</svg>

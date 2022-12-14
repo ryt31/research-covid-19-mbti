@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(35,265)" font-size="145" style="fill:rgb(49, 103, 142)">増える</text>
+<text transform="translate(161,127)" font-size="145" style="fill:rgb(31, 151, 139)">走る</text>
+<text transform="translate(217,313)" font-size="53" style="fill:rgb(59, 187, 117)">マンボウ</text>
+<text transform="translate(4,99)" font-size="53" style="fill:rgb(134, 213, 73)">我慢</text>
+<text transform="translate(4,45)" font-size="53" style="fill:rgb(251, 231, 35)">より</text>
+<text transform="translate(42,315)" font-size="46" style="fill:rgb(122, 209, 81)">ライブ</text>
+<text transform="translate(472,140) rotate(-90)" font-size="46" style="fill:rgb(189, 223, 38)">ameba</text>
+<text transform="translate(155,139) rotate(-90)" font-size="46" style="fill:rgb(241, 229, 29)">ameblo</text>
+<text transform="translate(2,130)" font-size="35" style="fill:rgb(70, 48, 126)">grachan</text>
+<text transform="translate(34,298) rotate(-90)" font-size="35" style="fill:rgb(251, 231, 35)">official</text>
+<text transform="translate(337,267) rotate(-90)" font-size="35" style="fill:rgb(162, 218, 55)">shizuoka</text>
+<text transform="translate(197,249) rotate(-90)" font-size="35" style="fill:rgb(56, 89, 140)">つなぐ</text>
+<text transform="translate(340,151)" font-size="26" style="fill:rgb(31, 161, 136)">において</text>
+<text transform="translate(471,299) rotate(-90)" font-size="26" style="fill:rgb(68, 2, 86)">チャリティー</text>
+<text transform="translate(5,155)" font-size="26" style="fill:rgb(39, 128, 142)">ボー</text>
+<text transform="translate(318,113) rotate(-90)" font-size="26" style="fill:rgb(234, 229, 26)">ボーナス</text>
+<text transform="translate(173,311)" font-size="26" style="fill:rgb(31, 152, 139)">公園</text>
+<text transform="translate(161,23)" font-size="26" style="fill:rgb(112, 207, 87)">噴水</text>
+<text transform="translate(410,23)" font-size="26" style="fill:rgb(44, 177, 126)">思考</text>
+<text transform="translate(299,243) rotate(-90)" font-size="26" style="fill:rgb(43, 117, 142)">須田景凪</text>
+</svg>
