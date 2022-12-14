@@ -1,5 +1,7 @@
 class MbtiUtil():
     def __init__(self) -> None:
+        
+        self.m_types = ["ESFP", "ISTP", "ENTP", "ESFJ", "INFP", "ENFP", "ISFP", "ISFJ", "INFJ", "ENFJ", "INTP", "ESTP", "INTJ", "ENTJ", "ESTJ", "ISTJ"]
         self.type_dic: dict = {
             "INTJ": "建築家", "INTP": "論理学者", "ENTJ": "指揮官", "ENTP": "討論者",
             "INFJ": "提唱者", "INFP": "仲介者", "ENFJ": "主人公", "ENFP": "広報運動家",
