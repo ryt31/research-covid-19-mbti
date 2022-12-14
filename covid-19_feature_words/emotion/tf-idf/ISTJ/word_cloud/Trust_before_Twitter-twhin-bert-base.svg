@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(140,198)" font-size="118" style="fill:rgb(208, 225, 28)">です</text>
+<text transform="translate(78,97)" font-size="118" style="fill:rgb(72, 40, 120)">どう</text>
+<text transform="translate(102,304)" font-size="118" style="fill:rgb(70, 51, 127)">みんな</text>
+<text transform="translate(286,80)" font-size="96" style="fill:rgb(119, 209, 83)">アリ</text>
+<text transform="translate(1,208)" font-size="36" style="fill:rgb(44, 115, 142)">トロピカル</text>
+<text transform="translate(70,182) rotate(-90)" font-size="36" style="fill:rgb(59, 82, 139)">ドミノピザ</text>
+<text transform="translate(328,205)" font-size="25" style="fill:rgb(34, 167, 133)">パイナップル</text>
+<text transform="translate(4,274)" font-size="25" style="fill:rgb(42, 119, 142)">ピザ</text>
+<text transform="translate(117,171)" font-size="25" style="fill:rgb(41, 121, 142)">思う</text>
+<text transform="translate(371,143)" font-size="25" style="fill:rgb(37, 132, 142)">美味しい</text>
+</svg>

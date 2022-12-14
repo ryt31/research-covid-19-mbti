@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(136,230)" font-size="154" style="fill:rgb(92, 200, 99)">する</text>
+<text transform="translate(238,100)" font-size="119" style="fill:rgb(101, 203, 94)">ない</text>
+<text transform="translate(24,88)" font-size="108" style="fill:rgb(72, 32, 113)">てる</text>
+<text transform="translate(94,308) rotate(-90)" font-size="102" style="fill:rgb(71, 17, 100)">ます</text>
+<text transform="translate(224,309)" font-size="93" style="fill:rgb(60, 80, 139)">たい</text>
+<text transform="translate(97,310)" font-size="67" style="fill:rgb(70, 11, 94)">なる</text>
+<text transform="translate(37,133)" font-size="52" style="fill:rgb(66, 64, 134)">けど</text>
+<text transform="translate(463,305) rotate(-90)" font-size="52" style="fill:rgb(50, 101, 142)">です</text>
+<text transform="translate(72,213)" font-size="44" style="fill:rgb(33, 142, 141)">行く</text>
+<text transform="translate(231,176)" font-size="43" style="fill:rgb(50, 101, 142)">ある</text>
+<text transform="translate(472,196) rotate(-90)" font-size="43" style="fill:rgb(49, 103, 142)">思う</text>
+<text transform="translate(95,246)" font-size="41" style="fill:rgb(70, 51, 127)">って</text>
+<text transform="translate(33,110) rotate(-90)" font-size="39" style="fill:rgb(66, 65, 134)">見る</text>
+<text transform="translate(231,223)" font-size="39" style="fill:rgb(139, 214, 70)">いる</text>
+<text transform="translate(138,121)" font-size="37" style="fill:rgb(244, 230, 30)">まで</text>
+<text transform="translate(102,172)" font-size="34" style="fill:rgb(54, 92, 141)">好き</text>
+<text transform="translate(78,64)" font-size="33" style="fill:rgb(34, 139, 141)">質問</text>
+<text transform="translate(427,164) rotate(-90)" font-size="33" style="fill:rgb(31, 158, 137)">いい</text>
+<text transform="translate(40,314)" font-size="29" style="fill:rgb(70, 48, 126)">くる</text>
+<text transform="translate(407,64) rotate(-90)" font-size="29" style="fill:rgb(234, 229, 26)">みる</text>
+</svg>

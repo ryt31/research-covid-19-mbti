@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(142,129)" font-size="154" style="fill:rgb(31, 154, 138)">する</text>
+<text transform="translate(11,282)" font-size="119" style="fill:rgb(43, 117, 142)">ます</text>
+<text transform="translate(325,317) rotate(-90)" font-size="108" style="fill:rgb(70, 50, 126)">ない</text>
+<text transform="translate(2,159)" font-size="92" style="fill:rgb(38, 173, 129)">てる</text>
+<text transform="translate(418,313) rotate(-90)" font-size="84" style="fill:rgb(72, 31, 112)">です</text>
+<text transform="translate(1,76)" font-size="76" style="fill:rgb(64, 189, 114)">たい</text>
+<text transform="translate(386,168)" font-size="44" style="fill:rgb(108, 205, 90)">質問</text>
+<text transform="translate(171,177)" font-size="43" style="fill:rgb(70, 10, 93)">けど</text>
+<text transform="translate(457,299) rotate(-90)" font-size="42" style="fill:rgb(216, 226, 25)">なる</text>
+<text transform="translate(78,310)" font-size="38" style="fill:rgb(38, 173, 129)">いる</text>
+<text transform="translate(105,22)" font-size="27" style="fill:rgb(234, 229, 26)">モンスト</text>
+<text transform="translate(253,64)" font-size="27" style="fill:rgb(33, 143, 141)">欲しい</text>
+<text transform="translate(422,60)" font-size="27" style="fill:rgb(110, 206, 88)">まで</text>
+<text transform="translate(11,306)" font-size="26" style="fill:rgb(127, 211, 78)">思う</text>
+<text transform="translate(86,191)" font-size="26" style="fill:rgb(40, 124, 142)">募集中</text>
+<text transform="translate(198,313)" font-size="26" style="fill:rgb(30, 157, 137)">匿名</text>
+<text transform="translate(381,313)" font-size="24" style="fill:rgb(72, 31, 112)">ある</text>
+<text transform="translate(424,20)" font-size="23" style="fill:rgb(147, 215, 65)">行く</text>
+<text transform="translate(2,194)" font-size="23" style="fill:rgb(45, 113, 142)">見る</text>
+<text transform="translate(248,89)" font-size="23" style="fill:rgb(71, 44, 122)">って</text>
+</svg>

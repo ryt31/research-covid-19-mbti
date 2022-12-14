@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(91,271)" font-size="149" style="fill:rgb(46, 111, 142)">する</text>
+<text transform="translate(249,121)" font-size="111" style="fill:rgb(31, 161, 135)">ます</text>
+<text transform="translate(17,92)" font-size="106" style="fill:rgb(63, 72, 137)">ない</text>
+<text transform="translate(92,315) rotate(-90)" font-size="101" style="fill:rgb(72, 31, 112)">たい</text>
+<text transform="translate(454,318) rotate(-90)" font-size="94" style="fill:rgb(170, 220, 50)">てる</text>
+<text transform="translate(132,144)" font-size="67" style="fill:rgb(112, 207, 87)">なる</text>
+<text transform="translate(236,313) rotate(-90)" font-size="59" style="fill:rgb(72, 40, 120)">けど</text>
+<text transform="translate(210,37)" font-size="45" style="fill:rgb(32, 146, 140)">です</text>
+<text transform="translate(240,310)" font-size="37" style="fill:rgb(70, 11, 94)">ローソン</text>
+<text transform="translate(125,302) rotate(-90)" font-size="36" style="fill:rgb(71, 19, 101)">食べる</text>
+<text transform="translate(346,29)" font-size="34" style="fill:rgb(66, 65, 134)">やる</text>
+<text transform="translate(406,311)" font-size="34" style="fill:rgb(46, 111, 142)">みる</text>
+<text transform="translate(260,154)" font-size="34" style="fill:rgb(223, 227, 24)">行く</text>
+<text transform="translate(406,239)" font-size="34" style="fill:rgb(82, 197, 105)">思う</text>
+<text transform="translate(318,152)" font-size="34" style="fill:rgb(197, 224, 33)">無料</text>
+<text transform="translate(85,161)" font-size="33" style="fill:rgb(50, 101, 142)">ので</text>
+<text transform="translate(72,123)" font-size="33" style="fill:rgb(223, 227, 24)">ある</text>
+<text transform="translate(471,134) rotate(-90)" font-size="33" style="fill:rgb(72, 27, 109)">抽選</text>
+<text transform="translate(411,26)" font-size="30" style="fill:rgb(32, 146, 140)">見る</text>
+<text transform="translate(182,88)" font-size="22" style="fill:rgb(36, 170, 131)">ファミマ</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(1,256)" font-size="53" style="fill:rgb(72, 32, 113)">仮面ライダージオウ</text>
+<text transform="translate(169,179)" font-size="53" style="fill:rgb(38, 173, 129)">変身</text>
+<text transform="translate(65,107)" font-size="53" style="fill:rgb(48, 106, 142)">常磐ソウゴ</text>
+<text transform="translate(380,152)" font-size="40" style="fill:rgb(56, 185, 119)">blog</text>
+<text transform="translate(69,52)" font-size="40" style="fill:rgb(71, 45, 123)">あの</text>
+<text transform="translate(267,200)" font-size="40" style="fill:rgb(31, 148, 140)">にて</text>
+<text transform="translate(179,299)" font-size="40" style="fill:rgb(58, 83, 139)">まさかの</text>
+<text transform="translate(153,56)" font-size="25" style="fill:rgb(49, 103, 142)">バンダイキャンディスタッフ</text>
+<text transform="translate(192,24)" font-size="24" style="fill:rgb(33, 143, 141)">プレミアムバンダイ</text>
+<text transform="translate(360,182)" font-size="24" style="fill:rgb(52, 97, 141)">予約</text>
+<text transform="translate(16,132)" font-size="24" style="fill:rgb(72, 24, 106)">商品化</text>
+<text transform="translate(219,205)" font-size="24" style="fill:rgb(44, 113, 142)">決定</text>
+<text transform="translate(48,175)" font-size="24" style="fill:rgb(42, 176, 127)">開始予定</text>
+<text transform="translate(412,288)" font-size="24" style="fill:rgb(139, 214, 70)">食玩</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(214,265)" font-size="130" style="fill:rgb(44, 115, 142)">する</text>
+<text transform="translate(137,104)" font-size="110" style="fill:rgb(56, 88, 140)">ない</text>
+<text transform="translate(2,237)" font-size="106" style="fill:rgb(43, 117, 142)">てる</text>
+<text transform="translate(306,150)" font-size="86" style="fill:rgb(35, 137, 142)">ます</text>
+<text transform="translate(80,304)" font-size="80" style="fill:rgb(132, 212, 75)">です</text>
+<text transform="translate(102,157) rotate(-90)" font-size="76" style="fill:rgb(103, 204, 92)">けど</text>
+<text transform="translate(344,55)" font-size="66" style="fill:rgb(43, 117, 142)">ある</text>
+<text transform="translate(348,318) rotate(-90)" font-size="62" style="fill:rgb(248, 230, 33)">より</text>
+<text transform="translate(202,151)" font-size="54" style="fill:rgb(40, 174, 128)">見る</text>
+<text transform="translate(359,312)" font-size="52" style="fill:rgb(134, 213, 73)">なる</text>
+<text transform="translate(1,298)" font-size="50" style="fill:rgb(103, 204, 92)">いる</text>
+<text transform="translate(107,149)" font-size="48" style="fill:rgb(45, 113, 142)">良い</text>
+<text transform="translate(211,310)" font-size="43" style="fill:rgb(108, 205, 90)">思う</text>
+<text transform="translate(140,107) rotate(-90)" font-size="42" style="fill:rgb(72, 32, 113)">好き</text>
+<text transform="translate(36,133) rotate(-90)" font-size="42" style="fill:rgb(35, 169, 131)">たい</text>
+<text transform="translate(275,28)" font-size="34" style="fill:rgb(67, 62, 133)">れる</text>
+<text transform="translate(60,205)" font-size="32" style="fill:rgb(112, 207, 87)">you</text>
+<text transform="translate(473,213) rotate(-90)" font-size="32" style="fill:rgb(44, 114, 142)">楽しみ</text>
+<text transform="translate(192,24)" font-size="27" style="fill:rgb(37, 172, 130)">すぎる</text>
+<text transform="translate(382,85)" font-size="26" style="fill:rgb(38, 173, 129)">って</text>
+</svg>

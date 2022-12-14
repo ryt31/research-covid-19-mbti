@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(43,181)" font-size="137" style="fill:rgb(115, 208, 86)">こと</text>
+<text transform="translate(1,285)" font-size="119" style="fill:rgb(30, 157, 137)">ごっそり</text>
+<text transform="translate(235,66)" font-size="81" style="fill:rgb(47, 108, 142)">できる</text>
+<text transform="translate(1,61)" font-size="52" style="fill:rgb(122, 209, 81)">アルセウス</text>
+<text transform="translate(366,136)" font-size="52" style="fill:rgb(70, 52, 128)">余り</text>
+<text transform="translate(298,183)" font-size="52" style="fill:rgb(72, 32, 113)">孵化</text>
+<text transform="translate(96,158)" font-size="52" style="fill:rgb(57, 85, 140)">持つ</text>
+<text transform="translate(129,217)" font-size="40" style="fill:rgb(229, 228, 25)">逃がす</text>
+<text transform="translate(58,193) rotate(-90)" font-size="40" style="fill:rgb(231, 228, 25)">集める</text>
+<text transform="translate(179,309)" font-size="37" style="fill:rgb(213, 226, 26)">頑張り</text>
+</svg>

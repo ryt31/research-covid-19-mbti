@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(85,206)" font-size="150" style="fill:rgb(42, 118, 142)">女神</text>
+<text transform="translate(159,298)" font-size="112" style="fill:rgb(72, 38, 119)">この</text>
+<text transform="translate(1,69)" font-size="87" style="fill:rgb(54, 93, 141)">テスト</text>
+<text transform="translate(246,67)" font-size="46" style="fill:rgb(92, 200, 99)">パートナー</text>
+<text transform="translate(453,284) rotate(-90)" font-size="46" style="fill:rgb(62, 74, 137)">ブイブイ</text>
+<text transform="translate(66,288)" font-size="46" style="fill:rgb(37, 133, 142)">遊ぶ</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(10,255)" font-size="124" style="fill:rgb(66, 65, 134)">なあ</text>
+<text transform="translate(106,107)" font-size="124" style="fill:rgb(45, 178, 125)">夫婦</text>
+<text transform="translate(451,250) rotate(-90)" font-size="124" style="fill:rgb(44, 177, 126)">素敵</text>
+</svg>

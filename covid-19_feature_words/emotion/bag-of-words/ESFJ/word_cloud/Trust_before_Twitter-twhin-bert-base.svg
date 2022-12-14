@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(53,137)" font-size="130" style="fill:rgb(64, 69, 136)">する</text>
+<text transform="translate(162,256)" font-size="118" style="fill:rgb(210, 226, 27)">質問</text>
+<text transform="translate(287,73)" font-size="95" style="fill:rgb(31, 161, 136)">てる</text>
+<text transform="translate(295,128)" font-size="60" style="fill:rgb(176, 221, 47)">募集中</text>
+<text transform="translate(36,220)" font-size="60" style="fill:rgb(37, 132, 142)">匿名</text>
+<text transform="translate(13,283)" font-size="53" style="fill:rgb(69, 56, 130)">ます</text>
+<text transform="translate(284,307)" font-size="52" style="fill:rgb(39, 128, 142)">ある</text>
+<text transform="translate(133,308)" font-size="51" style="fill:rgb(236, 229, 27)">ない</text>
+<text transform="translate(7,41)" font-size="50" style="fill:rgb(67, 62, 133)">です</text>
+<text transform="translate(384,311)" font-size="47" style="fill:rgb(46, 110, 142)">好き</text>
+<text transform="translate(432,267) rotate(-90)" font-size="45" style="fill:rgb(39, 126, 142)">質問箱</text>
+<text transform="translate(175,159) rotate(-90)" font-size="45" style="fill:rgb(70, 10, 93)">でも</text>
+<text transform="translate(131,33)" font-size="39" style="fill:rgb(31, 152, 139)">くださる</text>
+<text transform="translate(55,161) rotate(-90)" font-size="39" style="fill:rgb(244, 230, 30)">こんな</text>
+<text transform="translate(469,260) rotate(-90)" font-size="39" style="fill:rgb(68, 2, 86)">答える</text>
+<text transform="translate(5,310)" font-size="31" style="fill:rgb(48, 105, 142)">フォロー</text>
+<text transform="translate(259,154)" font-size="19" style="fill:rgb(72, 35, 116)">サカナクション</text>
+<text transform="translate(30,217) rotate(-90)" font-size="19" style="fill:rgb(71, 47, 125)">ピアノ</text>
+<text transform="translate(88,161)" font-size="19" style="fill:rgb(72, 31, 112)">owari</text>
+<text transform="translate(183,150)" font-size="19" style="fill:rgb(74, 193, 109)">inc</text>
+</svg>

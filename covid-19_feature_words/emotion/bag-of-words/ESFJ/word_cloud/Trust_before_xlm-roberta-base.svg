@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+<style>text{font-family:'TakaoGothic';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(124,148)" font-size="139" style="fill:rgb(55, 91, 141)">する</text>
+<text transform="translate(105,266) rotate(-90)" font-size="117" style="fill:rgb(139, 214, 70)">ます</text>
+<text transform="translate(202,290)" font-size="104" style="fill:rgb(60, 80, 139)">です</text>
+<text transform="translate(467,215) rotate(-90)" font-size="103" style="fill:rgb(58, 83, 139)">ない</text>
+<text transform="translate(39,305)" font-size="79" style="fill:rgb(31, 161, 136)">てる</text>
+<text transform="translate(265,213) rotate(-90)" font-size="72" style="fill:rgb(181, 222, 43)">いる</text>
+<text transform="translate(51,51)" font-size="61" style="fill:rgb(65, 66, 135)">けど</text>
+<text transform="translate(274,196)" font-size="54" style="fill:rgb(38, 173, 129)">選手</text>
+<text transform="translate(372,274)" font-size="53" style="fill:rgb(44, 177, 126)">思う</text>
+<text transform="translate(58,156)" font-size="50" style="fill:rgb(157, 217, 59)">ある</text>
+<text transform="translate(113,217)" font-size="48" style="fill:rgb(72, 193, 110)">なる</text>
+<text transform="translate(208,37)" font-size="44" style="fill:rgb(70, 7, 90)">って</text>
+<text transform="translate(367,309)" font-size="37" style="fill:rgb(34, 140, 141)">くれる</text>
+<text transform="translate(291,36)" font-size="36" style="fill:rgb(160, 218, 57)">本当に</text>
+<text transform="translate(364,78)" font-size="36" style="fill:rgb(44, 113, 142)">見る</text>
+<text transform="translate(217,312) rotate(-90)" font-size="36" style="fill:rgb(202, 225, 31)">日本</text>
+<text transform="translate(325,308) rotate(-90)" font-size="35" style="fill:rgb(38, 130, 142)">れる</text>
+<text transform="translate(33,317) rotate(-90)" font-size="35" style="fill:rgb(38, 130, 142)">くる</text>
+<text transform="translate(2,162)" font-size="29" style="fill:rgb(63, 72, 137)">良い</text>
+<text transform="translate(109,242)" font-size="28" style="fill:rgb(30, 155, 138)">ござる</text>
+</svg>
